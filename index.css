@@ -1,0 +1,776 @@
+body {
+  background-color:rgb(190,0,0);
+}
+p {
+  color: white;
+  font-size:28px;
+  background-color: darkblue
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  text-decoration:underline;
+  background-color:white;
+}
+
+ul {
+ font-size:25px;
+  color:white;
+  background-color:black;
+  text-align:left;
+}
+
+.homebutton {
+  width:125px;
+  height:100px;
+  border:ridge;
+  border-width:9px;
+  border-radius:100px;
+  border-color:darkblue;
+  }
+
+.norm {
+  text-align:center;
+  font-size:50px;
+  color:white;
+  background-color:darkred;
+}
+
+.Iron {
+  font-weight:bold;
+  text-align:center;
+  color:rgb(200,0,0);
+  background-color:rgb(250,150,0);
+  text-decoration:underline;
+  font-size:30px;
+}
+
+.CAP {
+  font-weight: bold;
+  text-align:center;
+  color:rgb(235,0,0);
+  background-color:rgb(0,0,90);
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+
+.am {
+  height: 700px;
+  width: 460px;
+  border:ridge;
+  border-width: 15px;
+  border-color:rgb(123,13,17);
+}
+
+.america {
+  height:700px;
+  width:460px;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(0,0,90);
+}
+
+.hulk {
+  font-weight:bold;
+  text-align: center;
+  color:rgb(0,190,0);
+  background-color:rgb(120,0,120);
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+.smash {
+  height:450px;
+  width:735px;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(90,0,90);
+}
+
+.thor{
+  font-weight:bold;
+  text-align:center;
+  background-color:dimgrey;
+  color:rgb(0,191,135);
+  font-size:35px;
+  text-decoration: underline;
+}
+
+.stormbreaker {
+  height:700px;
+  width:460px;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(0,200,250);
+}
+
+.landing {
+    border:ridge;
+    border-width:16px;
+    border-color: deepskyblue;
+    height:190px
+}
+
+.landing2{
+    color:deepskyblue;
+    background-color:dimgrey;
+    font-size: 30px;
+}
+
+.hawkeye {
+  font-weight:bold;
+  text-align:center;
+  background-color:black;
+  color:rebeccapurple;
+  font-size:35px;
+  text-decoration:underline;
+}
+
+.bird {
+  height:700px;
+  width:460px;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(100,0,180);
+}
+
+.widow {
+  font-weight:bold;
+  text-align:center;
+  background-color:black;
+  color:rgb(195,0,0);
+  font-size:30px;
+  text-decoration:underline;
+}
+
+.rushman {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(81,13,21);
+}
+
+.stones {
+  font-size:30px;
+  text-align:center;
+  color:gold;
+  background-color:black;
+}
+
+.power {
+  color:rgb(185,0,185);
+  background-color:black;
+}
+
+.space {
+  color:rgb(0,90,255);
+}
+
+.soul {
+  color:rgb(255,170,0);
+}
+
+.reality{
+  color:rgb(187,0,0);
+}
+
+.time {
+  color:rgb(0,195,0)
+}
+
+.mind {
+  color:rgb(255,255,0)
+}
+
+.falcon {
+  font-weight:bold;
+  text-align:center;
+  color:rgb(240,0,0);
+  background-color:grey;
+  text-decoration:underline;
+  font-size:30px;
+}
+
+.red {
+  height:550px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(105, 14, 23);
+}
+
+.strange {
+  font-weight:bold;
+  text-align:center;
+  color:rgb(0,255,0);
+  background-color:rgb(0,0,109);
+  text-decoration:underline;
+  font-size:30px;
+}
+
+.doc {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(0,0,109);
+}
+
+.panther{
+  font-weight:bold;
+  text-align:center;
+  color:silver;
+  background-color:black;
+  text-decoration:underline;
+  font-size:30px;
+}
+
+.wakanda {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rebeccapurple;
+}
+
+.man {
+  font-weight:bold;
+  text-align:center;
+  color:red;
+  background-color:black;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.ant {
+ height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(111, 6, 2);
+}
+
+.vis {
+  font-weight:bold;
+  text-align:center;
+  color:rgb(255,255,0);
+  background-color:purple;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.vision {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:purple;
+}
+
+.max {
+  font-weight:bold;
+  text-align:center;
+  color:rgb(30,30,30);
+  background-color:rgb(145,0,0);
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.scarlet {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(110, 18, 29);
+}
+
+.rhodey {
+  font-weight:bold;
+  text-align:center;
+  color:silver;
+  background-color:black;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.machine {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(59, 64, 72);
+}
+
+.spider {
+  font-weight:bold;
+  text-align:center;
+  color:red;
+  text-decoration: underline;
+  font-size:35px;
+  background-color:rgb(0,0,175);
+}
+
+.spidey {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(189,0,0);
+}
+
+.peter {
+  height:600px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(0,0,175);
+}
+
+.soldier {
+  font-weight:bold;
+  text-align:center;
+  color:dimgray;
+  background-color:black;
+  text-decoration: underline;
+  font-size:35px;
+}
+
+.bucky {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(82, 85, 83);
+}
+
+.star {
+  font-weight:bold;
+  text-align:center;
+  color:slategrey;
+  background-color:maroon;
+  text-decoration:underline;
+  font-size: 35px;
+}
+
+.lord {
+  height:1000px;
+  width:650px;
+  border:ridge;
+  border-color:maroon;
+  border-width:19px;
+}
+
+.marvel {
+  font-weight:bold;
+  text-align:center;
+  color:gold;
+  background-color:rgb(230,0,0);
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.carol {
+  height:700px;
+  width:auto;
+  border:ridge;
+  border-width:19px;
+  border-color:rgb(21, 45, 88);
+}
+
+.gamora {
+  font-weight: bold;
+  text-align:center;
+  color:green;
+  background-color:maroon;
+  text-decoration: underline;
+  font-size:35px;
+}
+
+ol {
+  font-size:23px;
+  background-color:blue;
+ color:black;
+}
+
+.list {
+  color:red;
+  background:black
+}
+
+.atari{
+  color:dodgerblue;
+  background-color:maroon;
+  font-size:35px;
+  text-decoration:underline;
+  text-align:center;
+  font-weight:bold;
+}
+
+.play {
+  color: black;
+  font-size:28px;
+  background-color: limegreen;
+}
+
+.tube {
+  color:red;
+  background-color:white;
+  font-size:35px;
+  text-decoration:underline;
+  text-align:center;
+  font-weight:bold;
+}
+
+.doctor {
+  color::black;
+  background-color:red;
+  font-size:28px;
+}
+
+.doom{
+  color:darkgrey;
+  background-color:green;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.victor {
+  color:limegreen;
+  background-color:dimgrey;
+  font-size:28px;
+}
+
+.ben {
+  color:rgb(145,9,0);
+  background-color:royalblue;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.parker{
+  color:rgb(193,12,0);
+  background-color:deepskyblue;
+  font-size:28px;
+}
+
+.king {
+  color:rebeccapurple;
+  background-color:ghostwhite;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.fisk {
+  color:white;
+  background-color:rebeccapurple;
+  font-size:28px;
+}
+
+
+.punisher {
+  color:lightgrey;
+  background-color:black;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.castle {
+  color:darkgrey;
+  background-color:rgb(40, 0, 102);
+  font-size:28px;
+}
+
+.psa {
+  background-color:white;
+  color:black;
+  font-size:30px;
+}
+
+.two {
+  color:rgb(255, 203, 35);
+  background-color:darkred;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:28px;
+}
+
+.spidey2000 {
+  color:darkred;
+  background-color:gold;
+  font-size:30px;
+}
+
+.six {
+  color:limegreen;
+  background-color: darkred;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:28px;
+}
+
+.may{
+  color:rgb(209, 34, 31);
+  background-color:rgb(0, 96, 1);
+  font-size:30px;
+}
+
+.elec {
+  color:green;
+  background-color:gold;
+  font-size:35px;
+  font-weight: bold;
+  text-align:center;
+  text-decoration:underline;
+}
+
+.dill {
+  color:teal;
+  background-color:black;
+  font-size: 28px;
+}
+
+.beck {
+  color:purpl;
+  background-color:gold;
+  font-weight: bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.fish{
+  color:gold;
+  background-color:rebeccapurple;
+  font-size:28px;
+}
+
+.raimi {
+  color:mediumblue;
+  background-color:darkred;
+  font-weight:bold;
+  text-align:center;
+  text-decoration: underline;
+  font-size:35px;
+}
+
+.sam {
+  color:silver;
+  background-color:rgb(240,0,0);
+  font-size:28px;
+}
+
+.invincible {
+  color:gold;
+  background-color:rgb(255, 42, 0);
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.anthony {
+  color:gold;
+  background-color:rgb(255,42,0);
+font-size:28px;
+}
+
+.daredevil{
+  color:black;
+  background-color:darkred;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.matt{
+  color:darkred;
+  background-color:black;
+  font-size:28px;
+}
+
+.radio {
+  color:darkgreen;
+  background-color:slategray;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.active {
+  color:darkslategray;
+  background-color:forestgreen;
+  font-size:28px;
+}
+
+.raimi2 {
+  color:gold;
+  background-color: red;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.raimispidey2 {
+  color:red;
+  background-color:gold;
+  font-size:28px;
+}
+
+.ulti {
+  color:red;
+  background-color:darkblue;
+  font-weight:bold;
+  text-align:center;
+  text-decoration: underline;
+  font-size:35px;
+}
+
+.eddie {
+  color:purple;
+  background-color:darkslategrey;
+  font-size:28px;
+}
+
+.ally {
+  color:white;
+  background-color: darkblue;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.gal {
+  color:mediumpurple;
+  background-color:black;
+  font-size:28px
+}
+
+.battle {
+  color:red;
+  background-color:green;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.york {
+  color:green;
+  background-color:red;
+  font-size:28px;
+}
+
+.raimi3 {
+  color:darkred;
+  background-color:black;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.raimispidey3 {
+  color:black;
+  background-color:darkred;
+  font-size:28px;
+}
+
+.stark {
+  color:rgb(250,150,0);
+  background-color:rgb(180,0,0);
+  font-size:28px;
+}
+
+.banner {
+  color:darkslategray;
+  background-color:green;
+  font-size:28px;
+}
+
+.web {
+  color:black;
+  background-color: red;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+.wolvey {
+  color:black;
+  background-color:grey;
+  font-size:28px;
+}
+
+.psa1 {
+  background-color:white;
+  color:black;
+  font-size:30px;
+  text-decoration:none;
+}
+
+.insom {
+  color:white;
+  background-color: red;
+  font-weight:bold;
+  text-decoration: underline;
+  font-size:35px;
+  text-align: center;
+}
+
+.games {
+  background-color:black;
+  color:rgb(200,199,108);
+  font-size:28px;
+}
+
+.ally3 {
+  background-color:rgb(48,78,159);
+  color:rgb(93,37,82);
+  font-weight: bold;
+  text-decoration:underline;
+  font-size:35px;
+  text-align:center;
+}
+
+.ally4{
+  background-color:rgb(93,37,82);
+    color:rgb(48,78,159);
+  font-size:28px;
+}
+
+.project {
+  background-color:red;
+  color:silver;
+  font-size:h1;
+}
+
+.link {
+  font-size:30px;
+  background-color:rgb(1,0,0);
+  color:white;
+}
+
+.foot {
+    text-align:center;
+    color:white;
+    background-color:black;
+    font-size:24px;
+}
