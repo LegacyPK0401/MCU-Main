@@ -262,3 +262,17 @@ ul {
   border-width: 20px;
   height:500px;
 }
+
+.ffhfb {
+  border:ridge;
+  border-width:20px;
+  height:500px;
+  border-color:#6A0A16;
+}
+
+.ffhexposed {
+  height:500px;
+  border:ridge;
+  border-width:20px;
+  border-color:#7C0010;
+}
