@@ -325,13 +325,6 @@ li {
     border-color: rgb(136, 126, 112);
 }
 
-.bridge {
-  height:600px;
-  border:ridge;
-  border-width:20px;
-  border-color:darkslateblue;
-}
-
 .quant {
     height:550px;
     border:ridge;
@@ -340,15 +333,6 @@ li {
 }
 
 
-
-
-
-.damage {
-  height:600px;
-  border:ridge;
-  border-width:20px;
-  border-color:orangered;
-}
 
 
 
@@ -408,25 +392,11 @@ li {
   border-color:lightslategray;
 }
 
-.rand {
-  height:650px;
-  border:ridge;
-  border-width:20px;
-  border-color:rgb(252, 213, 0);
-}
-
 .wak {
   height:500px;
   border:ridge;
   border-width:20px;
   border-color:rebeccapurple;
-}
-
-.lun {
-  height:500px;
-  border:ridge;
-  border-width:20px;
-  border-color:rgb(248, 205, 18);
 }
 
 .know {
@@ -573,4 +543,11 @@ li {
   border:ridge;
   border-width: 20px;
   border-color: #032B40;
+}
+
+.feast {
+  height: 500px;
+  border:ridge;
+  border-width:20px;
+  border-color: #BEB48B;
 }
