@@ -290,3 +290,10 @@ ul {
   border-width:20px;
   border-color: #2B0304;
 }
+
+.swcap {
+  height:500px;
+  border:ridge;
+  border-width:20px;
+  border-color: #283757;
+}
