@@ -297,3 +297,17 @@ ul {
   border-width:20px;
   border-color: #283757;
 }
+
+.lokil {
+  height:500px;
+  border:ridge;
+  border-width:20px;
+  border-color: rebeccapurple;
+}
+
+.multiun {
+  height:500px;
+  border:ridge;
+  border-width:20px;
+  border-color: rgb(19,	34,	73)	
+}
