@@ -309,5 +309,12 @@ ul {
   height:500px;
   border:ridge;
   border-width:20px;
-  border-color: rgb(19,	34,	73)	
+  border-color: rgb(19,	34,	73);
+}
+
+.reddes {
+  height: 500px;
+  border:ridge;
+  border-width:20px;
+  border-color: rgb(66,	12,	9);	
 }
